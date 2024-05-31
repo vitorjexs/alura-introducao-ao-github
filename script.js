@@ -23,7 +23,7 @@ let previewContent = `
     <p>Se não estivesse exatamente na única passagem da sala para o elevador, Fipenarum juraria que aquela figura esteve ali desde sempre, desde a construção do prédio, desde o primeiro minuto da noite. Era uma estátua, não se mexia. A cabeleira ia para cima e para baixo timidamente e piscava em ritmo, mais parecendo um letreiro na parede do que algo vivo.
     <p>Seus lábios estavam cerrados, com um sorriso simpático, que em uma pessoa atrás de um balcão atendimento pareceria mecânico e obrigatório, mas naquela estátua branca era uma expressão de sinceridade absoluta. </p>
     <p>A sala foi consumida por um aroma de campos verdes, ar puro que dificilmente se encontra em cidades movimentadas.</p>
-    <p>Conteúdo retirado do e-book "Justiça Cósmica, em: </p><a href="https://apoia.se/justicacosmica/contents/view/Capitulo-5-sTBXu7b9P?page=1#2">apoia.se/justicacosmica</a>
+    <p>Conteúdo retirado do capítulo 5 do e-book "Justiça Cósmica, em: </p><a href="https://apoia.se/justicacosmica/contents/view/Capitulo-5-sTBXu7b9P?page=1#2">apoia.se/justicacosmica</a>
 `;
 
 //Simple function to insert content into tags
